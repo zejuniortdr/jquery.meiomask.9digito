@@ -6,21 +6,26 @@ Adaptação do plugin jquery.meio.mask para celulares com 9º dígito no Brasil.
 - RJ (21,22 e 24)
 - ES (27 e 28)
 
-REQUISITOS
+Requisitos
 --------------
 - JQuery
 
 
-INSTALAÇÃO
+Instalação
 --------------
 
 - Clone este repositório para junto dos plugins do seu projeto
 - Adicone os arquivos no seu template html (após a inclusaão do jQuery) que fará uso das máscaras, adequando os caminhos conforme necessário:
-	<script src="plugins/meio-mask/jquery.meio.mask.min.js"></script>
-    <script src="plugins/meio-mask/meio-mask-init.js"></script>
+	<script src="<JS_PLUGINS_PATH>/meio-mask/jquery.meio.mask.min.js"></script>
+    <script src="<JS_PLUGINS_PATH>/meio-mask/meio-mask-init.js"></script>
+
+Ou inclua o caminho direto para estes arquivos:
+
+<script src="https://raw.githubusercontent.com/zejuniortdr/jquery.meiomask.9digito/master/jquery.meio.mask.min.js"></script>
+<script src="https://raw.githubusercontent.com/zejuniortdr/jquery.meiomask.9digito/master/meio-mask-init.js"></script>
 
 
-USO
+Uso
 --------------
 Nos htmls que precisar das máscaras nos inputs, adicione o atributo ***alt="NOME_DA_MASCARA"**, conforme os exemplos abaixo:
 
