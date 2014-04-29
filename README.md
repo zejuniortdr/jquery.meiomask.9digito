@@ -54,7 +54,7 @@ In htmls who need input's masks, add the attribute *** alt = "MASK_NAME" **, as 
 It is also possible to create new masks as seen in the file ***meio-mask-init.js***, with default values​​, reverse entry, tab control, among other options.
 
 
-jquery.meiomask.9digito README-PTBR
+jquery.meiomask.9digito PT-BR
 ==========
 
 Adaptação do plugin jquery.meio.mask para celulares com 9º dígito no Brasil. Atualmente DDD contemplados com o 9º dígito:
