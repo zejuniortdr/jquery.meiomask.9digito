@@ -6,12 +6,12 @@ Adaptação do plugin jquery.meio.mask para celulares com 9º dígito no Brasil.
 - RJ (21,22 e 24)
 - ES (27 e 28)
 
-Requisitos
+REQUISITOS
 --------------
 - JQuery
 
 
-Instalação
+INSTALAÇÃO
 --------------
 
 - Clone este repositório para junto dos plugins do seu projeto
@@ -43,7 +43,7 @@ Nos htmls que precisar das máscaras nos inputs, adicione o atributo ***alt="NOM
 - ***another_one*** : 7777 , type:reverse
 - ***dose*** : 99
 - ***termina_em*** : 39/19/9999, autoTab:false
-- ***phone_sp*** : (99) 99999-9999
+- ***phone_9digito*** : (99) 99999-9999
 - ***inteiros*** :  999999999999
 
 

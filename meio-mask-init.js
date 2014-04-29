@@ -22,7 +22,7 @@ $.mask.masks = $.extend($.mask.masks,{
 	another_one:{ mask: '7777' , type:'reverse' },
 	dose:{ mask: '99'},
 	termina_em:{ mask: '39/19/9999', autoTab:false },
-	phone_sp:{ mask: '(99) 99999-9999'},
+	phone_9digito:{ mask: '(99) 99999-9999'},
 	inteiros: { mask : '999999999999' }
 });
 
@@ -48,7 +48,7 @@ function procura_no_array(needle, haystack){
 
 		$('#id_telefone, #id_celular, #id_celular_validacao, #id_telefone').keydown(function(event) {
 			if( procura_no_array($(this).val().substring(1,6), ddds) >= 0){
-				$(this).attr('alt','phone_sp');
+				$(this).attr('alt','phone_9digito');
 			}else{
 				$(this).attr('alt','phone');
 			}
