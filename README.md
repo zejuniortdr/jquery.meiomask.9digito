@@ -21,8 +21,8 @@ Instalação
 
 Ou inclua o caminho direto para estes arquivos:
 
-<script src="https://raw.githubusercontent.com/zejuniortdr/jquery.meiomask.9digito/master/jquery.meio.mask.min.js"></script>
-<script src="https://raw.githubusercontent.com/zejuniortdr/jquery.meiomask.9digito/master/meio-mask-init.js"></script>
+`<script src="https://raw.githubusercontent.com/zejuniortdr/jquery.meiomask.9digito/master/jquery.meio.mask.min.js"></script>`
+`<script src="https://raw.githubusercontent.com/zejuniortdr/jquery.meiomask.9digito/master/meio-mask-init.js"></script>`
 
 
 Uso
