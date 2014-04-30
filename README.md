@@ -1,7 +1,7 @@
 jquery.meiomask.9digito
 ==========
 
-Adaptation of jquery.meiomask plugin for mobile phones with 9th digit in Brazil. Currently DDD awarded the 9th digit:
+Adaptation of jquery.meiomask plugin for mobile phones with 9th digit in Brazil. Currently these are the area codes that contains the 9th digit:
 - SP (11 to 19)
 - RJ (21,22 and 24)
 - ES (27 and 28)
@@ -57,7 +57,7 @@ It is also possible to create new masks as seen in the file ***meio-mask-init.js
 jquery.meiomask.9digito PT-BR
 ==========
 
-Adaptação do plugin jquery.meio.mask para celulares com 9º dígito no Brasil. Atualmente DDD contemplados com o 9º dígito:
+Adaptação do plugin jquery.meio.mask para celulares com 9º dígito no Brasil. Atualmente esses são os DDDs que contém o 9º dígito:
 - SP (11 ao 19)
 - RJ (21,22 e 24)
 - ES (27 e 28)
