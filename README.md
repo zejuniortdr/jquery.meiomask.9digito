@@ -27,7 +27,7 @@ Or include the direct path to these files:
 
 How to use
 --------------
-In htmls which need input masks, add the attribute *** alt = "MASK_NAME" ***, as the examples below:
+In htmls which need input masks, add the attribute ***alt = "MASK_NAME"***, as the examples below:
 
 - ***phone*** : (99) 9999-9999
 - ***phone-us*** :  (999) 9999-9999
