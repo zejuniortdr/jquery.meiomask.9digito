@@ -45,6 +45,12 @@ function procura_no_array(needle, haystack){
 		// SP 11 - 19
 		// RJ 21,22,24
 		// ES 27,28
+		// PA 91, 93, 94
+		// AM 92, 97
+		// RR 95
+		// AP 96
+		// MA 98, 99
+		
 
 		$('#id_telefone, #id_celular, #id_celular_validacao, #id_telefone').keydown(function(event) {
 			if( procura_no_array($(this).val().substring(1,6), ddds) >= 0){
