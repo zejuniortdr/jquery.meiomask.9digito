@@ -2,9 +2,14 @@ jquery.meiomask.9digito
 ==========
 
 Adaptation of jquery.meiomask plugin for mobile phones with 9th digit in Brazil. Currently these are the area codes that contains the 9th digit:
-- SP (11 to 19)
-- RJ (21,22 and 24)
-- ES (27 and 28)
+- SP 11 - 19
+- RJ 21,22 and 24
+- ES 27 and 28
+- PA 91, 93 and 94
+- AM 92 and 97
+- RR 95
+- AP 96
+- MA 98 and 99
 
 Requirements
 --------------
